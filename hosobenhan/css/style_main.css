@@ -1,0 +1,129 @@
+/* ---------------------------------------------------------------------------------TOP -------------------------------------------------------- */
+.main-top {
+      border-radius: 20px;
+      display: flex;
+      padding-bottom: 70px;
+}
+
+.card {
+      margin-left: 80px;
+}
+
+/* --------------------------------------------------- LEFT -------------------------------------------------------- */
+.left {
+      width: 33%;
+      margin-left: -3px;
+}
+
+.left-table {
+      padding: 15px 0px 15px 0px;
+}
+
+.left-table table td table {
+      border-radius: 10px;
+      padding: 10px;
+      margin-bottom: 40px;
+      background-color: #ffffff;
+}
+
+
+.card_icon {
+      margin-top: -40px;
+      margin-left: 40px;
+}
+
+.card_icon {
+      padding: 10px 18px 10px 18px;
+      text-decoration: none;
+      border-radius: 50%;
+}
+
+.card_icon:hover {
+      background-color: rgb(233, 237, 238);
+      color: black;
+}
+
+.card_icon a span {
+      color: black;
+}
+
+/* --------------------------------------------------- CENTER -------------------------------------------------------- */
+.center {
+      width: 33%;
+}
+
+.center-table {
+      padding: 15px 0px 15px 0px;
+}
+
+.center-table table td table {
+      border-radius: 10px;
+      padding: 10px;
+      margin-bottom: 40px;
+      background-color: #ffffff;
+}
+
+
+.card_icon {
+      margin-top: -40px;
+      margin-left: 40px;
+}
+
+.card_icon {
+      padding: 10px 18px 10px 18px;
+      text-decoration: none;
+      border-radius: 50%;
+}
+
+.card_icon:hover {
+      background-color: rgb(233, 237, 238);
+      color: black;
+}
+
+/* --------------------------------------------------- RIGHT -------------------------------------------------------- */
+.right {
+      width: 33%;
+}
+
+.right-table {
+      padding: 15px 0px 15px 0px;
+}
+
+.right-table table td table {
+      border-radius: 10px;
+      padding: 10px;
+      margin-bottom: 40px;
+      background-color: #ffffff;
+}
+
+
+.card_icon {
+      margin-top: -40px;
+      margin-left: 40px;
+}
+
+.card_icon {
+      padding: 10px 18px 10px 18px;
+      text-decoration: none;
+      border-radius: 50%;
+}
+
+.card_icon:hover {
+      background-color: rgb(233, 237, 238);
+      color: black;
+}
+
+/* ---------------------------------------------------------------------------------BOTTOM -------------------------------------------------------- */
+
+.button-main {
+      text-align: center;
+}
+
+a.button-main-text {
+      padding: 20px 50px;
+      background: #f53333;
+      color: #FFFFFF;
+      text-decoration: none;
+      border-radius: 20px;
+      font-size: 20px;
+}

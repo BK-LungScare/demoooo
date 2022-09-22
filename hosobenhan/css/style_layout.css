@@ -1,0 +1,38 @@
+body {
+      font-family: Arial;
+      padding: 0px;
+      width: 1500px;
+      margin: auto;
+      background-color: rgb(236, 243, 249);
+}
+
+.Search {
+      position: fixed;
+      background-color: rgb(255, 255, 255);
+      margin-left: 220px;
+      min-height: 50px;
+      width: 1270px;
+      box-shadow: 1px 1px 1px rgb(195, 194, 196);
+}
+
+#menu {
+      position: fixed;
+      background-color: rgb(255, 255, 255);
+      width: 200px;
+      float: left;
+      min-height: 900px;
+      z-index: 2;
+}
+
+#listmenu ul li.hosobenhan {
+      background: rgb(237, 234, 234);
+      color: black;
+}
+
+/* Main */
+.main {
+      float: right;
+      margin: 70px 10px 0px 0px;
+      width: 1270px;
+      z-index: 1;
+}
