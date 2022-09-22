@@ -1,0 +1,155 @@
+/* --------------------------------------------------TOP-------------------------------------------------*/
+.main-top {
+      margin-bottom: 20px;
+}
+
+.main-top ul li {
+      list-style-type: none;
+      display: inline;
+      margin-left: 30px;
+      padding: 15px;
+      border-radius: 20px;
+      background-color: #ffffff;
+}
+
+.main-top ul li a {
+      text-decoration: none;
+      color: rgb(97, 95, 95);
+}
+
+.main-top ul li a:hover {
+      color: rgb(49, 97, 218);
+      font-weight: bold;
+
+}
+
+.main-top ul li:hover {
+      border: 2px solid rgb(49, 97, 218);
+}
+
+.main-top ul li.lao {
+      border: 2px solid rgb(49, 97, 218);
+}
+.main-top ul li a.lao{
+      color: rgb(49, 97, 218);
+      font-weight: bold;
+}
+/* -----------------------BOTTOM----------------------------------------------*/
+.main-bottom {
+      display: flex;
+}
+
+/* -----------------------left--------------*/
+.main-bottom-left {
+      margin-left: -20px;
+      width: 80%;
+      margin-right: 20px;
+}
+
+.table1 {
+      border: 10px;
+}
+
+.table1 td.o {
+      background-color: #ffffff;
+      padding-bottom: 30px;
+      border-radius: 20px;
+      padding-right: 20px;
+      width: 500px;
+}
+
+table.table2 {
+      font-size: 15px;
+      padding-left: 10px;
+      border-radius: 20px;
+}
+
+.fullname-doctor {
+      margin-left: 20px;
+      margin-top: -1px;
+      margin-bottom: -10px;
+}
+
+.khoa {
+      margin-left: 20px;
+      margin-top: -1px;
+      margin-bottom: -10px;
+}
+
+.address-dortor {
+      margin-left: 20px;
+      margin-top: -1px;
+      margin-bottom: -10px;
+}
+
+a.button1 {
+      padding: 10px 20px;
+      background: #ef5454;
+      color: #FFFFFF;
+      text-decoration: none;
+      border-radius: 10px;
+}
+
+table.table3 {
+      font-size: 15px;
+      margin-top: 20px;
+      padding-left: 50px;
+}
+
+
+a.button1:hover {
+      background: #8f0909;
+}
+
+a.phone {
+      margin-right: 40px;
+      margin-left: -10px;
+}
+
+/*-----------------------right---------------*/
+.main-bottom-right {
+      margin-right: -10px;
+      margin-top: 20px;
+      width: 20%;
+      background-color: #ffffff;
+      border-radius: 20px;
+}
+
+.main-bottom-right-title {
+      padding-left: 40px;
+}
+
+#myInput {
+      width: 160px;
+      font-size: 14px;
+      padding: 12px 10px 12px 40px;
+      border: 1px solid #ddd;
+      margin-bottom: 12px;
+      border-radius: 20px;
+      margin-left: 20px;
+}
+
+#myUL {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      display: block;
+      height: 450px;
+      overflow: scroll;
+}
+
+#myUL li a {
+      border: 1px solid #ddd;
+      margin-top: -1px;
+      /* Prevent double borders */
+      background-color: #ffffff;
+      padding: 12px;
+      text-decoration: none;
+      font-size: 14px;
+      color: black;
+      display: block
+}
+
+#myUL li a:hover:not(.header) {
+      background-color: #eee;
+}
