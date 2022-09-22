@@ -1,0 +1,80 @@
+/* Đăng kí */
+body{
+      background-color:#ffffff;
+      width: 100%;
+}
+.header{
+      text-align: center;
+      color: #000000;
+}
+.form{
+      background-color: rgb(177, 203, 242);
+      width: 30%;
+      margin: auto;
+      margin-top: 5%;
+      padding: 20px;
+      border-radius: 20px;
+}
+.form h2{
+      text-align: center;
+}
+.form h4{
+      color: rgb(63, 63, 65);
+}
+.form table{
+      padding-bottom: 30px;
+}
+.dangki{
+      background-color: rgb(65, 86, 181);
+      color: #ffffff;
+      padding: 10px;
+      border-radius: 20px;
+      margin-right: 70px;
+      border: 0;
+}
+.dangki:hover{
+      background-color:rgb(14, 14, 97) ;
+}
+.fdangnhap{
+      background-color: dodgerblue;
+      color: rgb(255, 255, 255);
+      border-radius: 20px;
+      padding: 10px;
+      border: 0;
+}
+.fdangnhap:hover{
+      background-color:rgb(14, 14, 97) ;
+}
+.button_login{
+      margin-top: 30px;
+      text-align: center;
+      background-color: aqua;
+      padding: 20px;
+      border-radius: 20px;
+}
+.dangnhap {
+      width: 600px;
+      margin: 10px auto;
+      }
+      input[type=text], input[type=password] {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      }
+        
+      .button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+      }
+        
+      .button:hover {
+      opacity: 0.8;
+      }

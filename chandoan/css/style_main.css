@@ -1,0 +1,26 @@
+.main {
+      display: flex;
+}
+
+.main-left {
+      width: 25%;
+      padding-left: 30px;
+      background-color: #ffffff;
+      border-radius: 20px;
+}
+
+.main-left-header {
+      color: rgb(189, 189, 189);
+}
+
+.main-left-form {
+      margin-left: 20px;
+}
+
+.main-left-form form p label {
+      font-size: 40px;
+}
+
+.main-right {
+      width: 70%;
+}

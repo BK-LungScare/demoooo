@@ -1,0 +1,12 @@
+.another {
+      display: flex;
+      color: rgb(48, 48, 49);
+}
+
+.map {
+      overflow: hidden;
+      width: 260px;
+      height: 500px;
+      background-color: rgb(255, 255, 255);
+      border-radius: 10px;
+}

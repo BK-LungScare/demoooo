@@ -1,0 +1,36 @@
+.main {
+      margin-top: 80px;
+      display: flex;
+}
+
+.main h4 {
+      margin-top: 30px;
+      color: rgb(27, 72, 206);
+      font-size: 20px;
+}
+
+.main p {
+      font-size: 15px;
+      text-align: justify;
+}
+
+.main h3 {
+      text-align: justify;
+      font-size: 15px;
+}
+
+.main-left {
+      border-radius: 30px;
+      width: 50%;
+      background-color: #ffffff;
+      padding-left: 40px;
+      padding-right: 30px;
+}
+
+.main-right {
+      border-radius: 30px;
+      width: 50%;
+      background-color: #ffffff;
+      padding-left: 40px;
+      padding-right: 30px;
+}

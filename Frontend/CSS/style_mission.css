@@ -1,0 +1,37 @@
+.mission {
+      width: 650px;
+      margin-left: 30px;
+      font-size: 11px;
+      color: rgb(48, 48, 49);
+}
+
+.mission-header {
+      font-size: 16px;
+}
+
+.mission table {
+      width: 100%;
+}
+
+.mission table head {
+      color: rgb(109, 14, 14);
+}
+
+.mission table,
+td,
+th {
+      border-bottom: 1px solid #ffffff;
+      border-collapse: collapse;
+}
+
+.mission table td,
+th {
+      padding: 20px 20px;
+      text-align: center;
+}
+
+.table.table-hover tbody tr:hover {
+      background-color: #ffffff;
+      color: black;
+      box-shadow: rgb(155, 153, 153) 1px 1px 1px 1px;
+}

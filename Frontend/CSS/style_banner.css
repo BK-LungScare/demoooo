@@ -1,0 +1,11 @@
+/** BANNER **/
+.banner {
+      overflow: hidden;
+      position: relative;
+      position: absolute;
+      background-color: #ffffff;
+      width: 900px;
+      height: 300px;
+      padding-bottom: 10px;
+      border-radius: 20px;
+}
