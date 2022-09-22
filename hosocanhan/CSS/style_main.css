@@ -1,0 +1,87 @@
+.main {
+      margin-top: 70px;
+      border-radius: 20px;
+      background-color: #ffffff;
+      display: flex;
+      padding-bottom: 70px;
+}
+
+/* --------------------------------left------------------------------------ */
+.left {
+      width: 25%;
+}
+
+.left p {
+      margin: 20px;
+      color: rgb(117, 115, 115);
+}
+
+.icon {
+      margin: 30px;
+}
+
+.fix button {
+      color: #ffffff;
+      background-color: #366AFB;
+      padding: 10px;
+      border-radius: 20px;
+      border: 0;
+      margin-left: 90px;
+      font-size: 20px;
+}
+
+.fix button:hover {
+      background: #0b3bc1;
+      box-shadow: 10px;
+}
+
+/* --------------------------------center------------------------------------ */
+.center {
+      width: 75%;
+}
+
+.form {
+      margin-top: 0px;
+
+}
+
+.form p {
+      font-size: 20px;
+}
+
+.form input {
+      margin-top: -10px;
+      padding: 10px;
+      border-radius: 10px;
+      border-color: rgb(151, 151, 146);
+      box-sizing: 2px;
+}
+
+.gender ul li {
+      display: inline;
+}
+
+.form table tr td {
+      padding-left: 50px;
+}
+
+.form table {
+      margin-bottom: 50px;
+      margin-left: -30px;
+}
+
+.luuthongtin {
+      margin-left: 300px;
+      background-color: #c40505;
+      color: #ffffff;
+      border: 0;
+      box-shadow: #0b3bc1;
+      font-size: 20px;
+}
+
+.luuthongtin:hover {
+      background-color: #510505;
+      color: #ffffff;
+}
+
+/* --------------------------------right------------------------------------ */

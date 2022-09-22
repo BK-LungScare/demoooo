@@ -1,0 +1,133 @@
+.control {
+      width: 90px;
+      height: 35px;
+      margin-top: 15px;
+      margin-left: 10px;
+}
+
+a.button-icon-right {
+      margin-top: 20px;
+      padding: 5px 5px;
+      background: #ffffff;
+      color: rgb(100, 100, 100);
+      text-decoration: none;
+      border-radius: 50%;
+}
+
+a.button-icon-right:hover {
+      background: rgb(237, 237, 237);
+      color: black;
+}
+
+a.button-icon-left {
+      padding: 5px 5px;
+      background: #ffffff;
+      color: rgb(100, 100, 100);
+      text-decoration: none;
+      border-radius: 50%;
+}
+
+a.button-icon-left:hover {
+      background: rgb(237, 237, 237);
+      color: black;
+}
+
+a.button-icon-goback {
+      padding: 5px 5px;
+      background: #ffffff;
+      color: rgb(100, 100, 100);
+      text-decoration: none;
+      border-radius: 50%;
+}
+
+a.button-icon-goback:hover {
+      background: rgb(237, 237, 237);
+      color: black;
+}
+
+.search {
+      width: 900px;
+      position: relative;
+      display: flex;
+}
+
+.searchTerm {
+      width: 80%;
+      border: 3px solid #ffffff;
+      border-right: none;
+      padding: 5px;
+      height: 20px;
+      border-radius: 5px 0 0 5px;
+      outline: none;
+      color: #000000;
+}
+
+.searchTerm:focus {
+      color: #393838;
+}
+
+.searchButton {
+      width: 100px;
+      height: 36px;
+      border: 1px solid #e2e1e1;
+      background: #86ace5;
+      text-align: center;
+      color: rgb(108, 108, 108);
+      border-radius: 0 5px 5px 0;
+      cursor: pointer;
+      font-size: 13px;
+}
+
+.searchButton:hover {
+      color: #000000;
+      background-color: #b7cff3;
+}
+
+.wrap {
+      width: 800px;
+      position: absolute;
+      top: 50%;
+      margin-left: 500px;
+      transform: translate(-50%, -50%);
+}
+
+.wrap:hover {
+      border: 1px solid #c6c5c5;
+}
+
+/*Thông báo */
+.news {
+      margin-top: -35px;
+      margin-left: 1000px;
+}
+
+.news a i {
+      color: rgb(100, 100, 100);
+      padding: 7px;
+      border-radius: 50%;
+      margin-top: -15px;
+}
+
+.news a i:hover {
+      background-color: rgb(210, 210, 210);
+      color: #000000;
+}
+
+/* người dùng */
+.user {
+      margin-left: 1060px;
+      margin-top: -45px;
+      color: rgb(100, 100, 100);
+}
+
+.icon_user {
+      margin-left: 10px;
+      color: rgb(100, 100, 100);
+      padding: 7px;
+      border-radius: 50%;
+}
+
+.icon_user:hover {
+      background-color: rgb(210, 210, 210);
+      color: #000000;
+}
