@@ -1,0 +1,10 @@
+.main{
+      display: flex;
+}
+.main-left{
+      width: 65%;
+}
+.main-right{
+      width: 35%;
+      margin-left: 40px;
+}
